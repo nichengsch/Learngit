@@ -1,0 +1,4 @@
+mkdir dir
+git init
+touch 1.txt
+git add  1.txt
