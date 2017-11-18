@@ -3,3 +3,11 @@
 $ git add .
 
 git status -s
+
+git remote add golearn https://github.com/nichengsch/golearn.git
+
+git fetch golearn
+
+git add .
+git commit -m "zhushixinxi"
+git push
